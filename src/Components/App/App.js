@@ -61,7 +61,7 @@ class App extends React.Component {
           playlistTracks: [],
         });
       })
-      .catch(console.log("holy shit youre retarded hahahahaha"));
+      .catch(console.log("damn"));
   }
 
   search(term) {
