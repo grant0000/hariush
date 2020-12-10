@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hariush/static/css/main.c22de318.chunk.css",
+    "main.js": "/hariush/static/js/main.032dbd5a.chunk.js",
+    "main.js.map": "/hariush/static/js/main.032dbd5a.chunk.js.map",
+    "runtime-main.js": "/hariush/static/js/runtime-main.42c74780.js",
+    "runtime-main.js.map": "/hariush/static/js/runtime-main.42c74780.js.map",
+    "static/js/2.9e8de04e.chunk.js": "/hariush/static/js/2.9e8de04e.chunk.js",
+    "static/js/2.9e8de04e.chunk.js.map": "/hariush/static/js/2.9e8de04e.chunk.js.map",
+    "static/js/3.58a5d665.chunk.js": "/hariush/static/js/3.58a5d665.chunk.js",
+    "static/js/3.58a5d665.chunk.js.map": "/hariush/static/js/3.58a5d665.chunk.js.map",
+    "index.html": "/hariush/index.html",
+    "static/css/main.c22de318.chunk.css.map": "/hariush/static/css/main.c22de318.chunk.css.map",
+    "static/js/2.9e8de04e.chunk.js.LICENSE.txt": "/hariush/static/js/2.9e8de04e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hariush/static/media/background_photo_desktop.1321b64b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42c74780.js",
+    "static/js/2.9e8de04e.chunk.js",
+    "static/css/main.c22de318.chunk.css",
+    "static/js/main.032dbd5a.chunk.js"
+  ]
+}
